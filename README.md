@@ -1,0 +1,2 @@
+# standauto
+Trabalho Ctesp EDECD
